@@ -1,0 +1,16 @@
+C:\Users\ticha\source\repos\AdventCode\bin\Debug\net5.0\AdventCode.exe
+C:\Users\ticha\source\repos\AdventCode\bin\Debug\net5.0\AdventCode.deps.json
+C:\Users\ticha\source\repos\AdventCode\bin\Debug\net5.0\AdventCode.runtimeconfig.json
+C:\Users\ticha\source\repos\AdventCode\bin\Debug\net5.0\AdventCode.runtimeconfig.dev.json
+C:\Users\ticha\source\repos\AdventCode\bin\Debug\net5.0\AdventCode.dll
+C:\Users\ticha\source\repos\AdventCode\bin\Debug\net5.0\ref\AdventCode.dll
+C:\Users\ticha\source\repos\AdventCode\bin\Debug\net5.0\AdventCode.pdb
+C:\Users\ticha\source\repos\AdventCode\obj\Debug\net5.0\AdventCode.csprojAssemblyReference.cache
+C:\Users\ticha\source\repos\AdventCode\obj\Debug\net5.0\AdventCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ticha\source\repos\AdventCode\obj\Debug\net5.0\AdventCode.AssemblyInfoInputs.cache
+C:\Users\ticha\source\repos\AdventCode\obj\Debug\net5.0\AdventCode.AssemblyInfo.cs
+C:\Users\ticha\source\repos\AdventCode\obj\Debug\net5.0\AdventCode.csproj.CoreCompileInputs.cache
+C:\Users\ticha\source\repos\AdventCode\obj\Debug\net5.0\AdventCode.dll
+C:\Users\ticha\source\repos\AdventCode\obj\Debug\net5.0\ref\AdventCode.dll
+C:\Users\ticha\source\repos\AdventCode\obj\Debug\net5.0\AdventCode.pdb
+C:\Users\ticha\source\repos\AdventCode\obj\Debug\net5.0\AdventCode.genruntimeconfig.cache
